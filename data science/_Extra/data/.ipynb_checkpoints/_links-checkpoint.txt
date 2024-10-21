@@ -1,0 +1,2 @@
+01_ml-latest-small    https://grouplens.org/datasets/movielens/
+02_movies_metadata    https://www.kaggle.com/datasets/fajim123/movies-metadata

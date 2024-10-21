@@ -1,0 +1,49 @@
+Employee ID,Position,Duration,Performance
+1,Worker,One Month,7
+2,Worker,Five Month,5
+3,Worker,One Year,4
+4,Worker,Three Year or More,2
+5,Worker,One Month,5
+6,Worker,Five Month,5
+7,Worker,One Year,3
+8,Worker,Three Year or More,1
+9,Worker,One Month,5
+10,Worker,Five Month,4
+11,Worker,One Year,2
+12,Worker,Three Year or More,2
+13,Worker,One Month,4
+14,Worker,Five Month,4
+15,Worker,One Year,2
+16,Worker,Three Year or More,2
+17,Foreman,One Month,5
+18,Foreman,Five Month,6
+19,Foreman,One Year,5
+20,Foreman,Three Year or More,5
+21,Foreman,One Month,7
+22,Foreman,Five Month,6
+23,Foreman,One Year,6
+24,Foreman,Three Year or More,7
+25,Foreman,One Month,8
+26,Foreman,Five Month,7
+27,Foreman,One Year,6
+28,Foreman,Three Year or More,6
+29,Foreman,One Month,7
+30,Foreman,Five Month,7
+31,Foreman,One Year,7
+32,Foreman,Three Year or More,6
+33,Manager,One Month,5
+34,Manager,Five Month,7
+35,Manager,One Year,9
+36,Manager,Three Year or More,10
+37,Manager,One Month,6
+38,Manager,Five Month,9
+39,Manager,One Year,10
+40,Manager,Three Year or More,10
+41,Manager,One Month,7
+42,Manager,Five Month,9
+43,Manager,One Year,9
+44,Manager,Three Year or More,10
+45,Manager,One Month,6
+46,Manager,Five Month,7
+47,Manager,One Year,9
+48,Manager,Three Year or More,9

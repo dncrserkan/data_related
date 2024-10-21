@@ -1,0 +1,7 @@
+01   https://www.kaggle.com/datasets/ybifoundation/salary-prediction-simple-linear-regression
+02   https://www.kaggle.com/datasets/bumba5341/advertisingcsv
+03   https://github.com/scikit-learn/scikit-learn/blob/main/sklearn/datasets/data/boston_house_prices.csv
+04   https://www.kaggle.com/code/faressayah/practical-introduction-to-10-regression-algorithm
+05   https://www.kaggle.com/code/nimapourmoradi/red-wine-quality/input?select=winequality-red.csv
+06   https://www.kaggle.com/datasets/mariospirito/position-salariescsv
+07   https://raw.githubusercontent.com/mk-gurucharan/Regression/master/IceCreamData.csv

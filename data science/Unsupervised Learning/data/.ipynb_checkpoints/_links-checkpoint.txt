@@ -1,0 +1,4 @@
+01_Mall_Customers         https://www.kaggle.com/code/kushal1996/customer-segmentation-k-means-analysis/input
+02_Iris       -seaborn-   https://www.kaggle.com/datasets/uciml/iris
+03_winequality-red        https://www.kaggle.com/code/nimapourmoradi/red-wine-quality/input?select=winequality-red.csv
+04_GroceryStoreDataSet    https://www.kaggle.com/datasets/shazadudwadia/supermarket
