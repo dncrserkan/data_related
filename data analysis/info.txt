@@ -1,0 +1,1 @@
+Use the 'da' environment. If the 'yfinance' package is used, switch to the 'daV2' environment.
